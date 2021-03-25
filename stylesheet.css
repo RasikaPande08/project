@@ -1,0 +1,119 @@
+.header{
+    background-color:lightseagreen;
+    padding : 5px 5 px;
+    font-size:10px;
+    align:center;
+    color:mistyrose;
+    font:bold;
+    margin-bottom:2px;
+    line-height:30px;
+    opacity:10px;
+   
+ 
+}
+body {
+    font-family:" Avenir Next";
+}
+.welcome{
+    background-color:lavender;
+    text-align:center;
+    height:650px;
+    margin: 10px 10px;
+    align-content:center;
+    padding:20px 20px;
+}
+.welcome span{
+    font-style:bold;
+    font-weight:600;
+    font-size:50px;
+}
+.about{
+    background-color:teal;
+    color:lightcyan;
+    height:300px;
+    padding:20px 20px;
+    letter-spacing:3px;
+    align-items:center;
+    font-weight:400;
+
+}
+.about h3{
+    padding:10px 10px;
+}
+.skills {
+    background-color: bisque;
+    text-align: center;
+    padding: 10px 10px;
+    height:500px;
+    padding: 10px 10px;
+}
+.skills span{
+    color:red;
+}
+. skills h3{
+    color:navy;
+    padding:10px 10px;
+}
+.skills li{
+    list-style:none;
+    font-family:Verdana;
+    padding:4px 4px;
+}
+.link{
+    background-color:lavender;
+    paddinng:10px 10px;
+
+    
+}
+.link h3{
+    color:indianred;
+    text-align:center;
+}
+.link li{
+    list-style:none;
+    font-size:20px;
+    box-shadow:60px 0px;
+    float:left;
+    border-spacing:20px 20px;
+    background-color:lavender;
+    padding: 15px 130px;
+    font-style:italic;font-size:20px;
+
+
+}
+.l{
+    background-color:blue;
+    color:white;
+}
+.y{
+    background-color:red;
+    color:white;
+}
+.g{
+    background-color:darkviolet;
+    color:snow;
+
+}
+.i{
+    background-color:hotpink;
+    color:floralwhite;
+}
+.footer{
+    padding:20px 20px;
+    background-color:lavender;
+    text-align:center;
+    margin:10px 10px;
+    height:200px;
+
+}
+.welcome img{
+    height:300px;
+    width:250px;
+    padding:10px 10px;
+    border-radius:150px;
+
+}
+.footer h3{
+    text-align:center;
+    padding:10px 10px;
+}
